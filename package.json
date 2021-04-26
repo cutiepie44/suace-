@@ -1,0 +1,23 @@
+{
+  "name": "stupid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ballsballsballsballsballsballsballsball/suace-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ballsballsballsballsballsballsballsball/suace-/issues"
+  },
+  "homepage": "https://github.com/ballsballsballsballsballsballsballsball/suace-#readme",
+  "dependencies": {
+    "open": "^8.0.6",
+    "readline": "^1.3.0"
+  }
+}
