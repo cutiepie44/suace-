@@ -5,7 +5,7 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-rl.question("whats da code", function(e) {
+rl.question("whats da code: ", function(e) {
     const url = `https://nhentai.net/g/${e}`;
     opn(url);
     console.log(url);
