@@ -12,6 +12,9 @@ print("""
 :::: ::   ::::: ::  ::   :::   ::: :::   :: ::::             
 :: : :     : :  :    :   : :   :: :: :  : :: ::              
                                                              """)
+print("1 NHENTIA")
+print("2 R34")
+print("3 E621")
 websitec = input("What website? ")
 if websitec == "1":
     websitec = 1
