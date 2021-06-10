@@ -21,7 +21,7 @@ if websitec == "1":
     while True:
         code0 = input("whats the code ")
         website0 = "https://nhentai.net/g/"
-        print(website0 + code)
+        print(website0 + code0)
         webbrowser.open(f"{website0}{code0}")
         print('\033c')
         print('\x1bc')
